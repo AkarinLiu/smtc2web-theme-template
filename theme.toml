@@ -1,0 +1,7 @@
+[smtc2web.theme]
+name  = "default"
+version = "0.1.0"
+description = "default theme for smtc2web"
+tags = ["vue","simple"]
+icon = "icon.png"
+screenshot = "screenshot.png"
