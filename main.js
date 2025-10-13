@@ -16,7 +16,7 @@ createApp({
 
     async function poll() {
       try {
-        const r = await fetch("/api/now");
+        const r = await fetch("/api/now"); // 如果打算用于 OBS 浏览器源，可以更改这里的后端地址。
         const data = await r.json();
 
         // 简单比较数据是否变化
