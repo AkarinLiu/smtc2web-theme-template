@@ -6,6 +6,7 @@ createApp({
       title: null,
       artist: null,
       album: null,
+      album_art: null,
       position: "00:00",
       duration: "00:00",
       pct: 0,
